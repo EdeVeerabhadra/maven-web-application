@@ -1,4 +1,4 @@
-node('nodeslave1'){
+node('slavenode1'){
 //node('mss'){
 
   //http://JenkinsServerIPAddress:8080/pipeline-syntax/globals#currentBuild
